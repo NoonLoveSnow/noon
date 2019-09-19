@@ -1,5 +1,5 @@
 package hi;
 
 public class hi {
-    static {System.out.print("123");}
+    static {System.out.print("123" );}
 }
